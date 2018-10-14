@@ -1,5 +1,5 @@
 # tringl
-help
+help\n
 me 
 please
 help
