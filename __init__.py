@@ -40,7 +40,6 @@ while state: # main loop
     pygame.draw.rect(win, (255, 0, 0), (posx, posy, width, height))
 
     #update display
-
     pygame.display.update() # update the display
     pygame.time.delay(int(1000/framerate)) # miliseconds, this is the frame rate here
     win.fill( (105, 105, 105) ) # draw the background over everything... we have this below everything so its ontop of everything in the next cycle
