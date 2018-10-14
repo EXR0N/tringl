@@ -16,4 +16,4 @@ chooo<br>
 mmmrf <br>
 that was a big sneeze<br>
 now git to work!<br>
-if you are reading this you are of task *cough cough
+if you are reading this you are off task *cough cough*
